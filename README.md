@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Jayson!
+- I enjoy building things that create value for people!
+- My current areas of interest include Full Stack & Web3
 
+📫: jaysondale1@gmail.com
 <!--
 **jaysondale/jaysondale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
